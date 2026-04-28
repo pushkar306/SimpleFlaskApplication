@@ -3,9 +3,9 @@
 A lightweight project demonstrating how to containerize a basic Flask application using Docker
 
 ## 📋 Prerequisites
-Docker Desktop
-VS Code
-Github
+- Docker Desktop
+- VS Code
+- Github
 
 ## 🚀 Getting Started
 
